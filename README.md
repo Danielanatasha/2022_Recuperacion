@@ -11,3 +11,8 @@ En el siguiente trabajo se creara un repositorio para subir las actividades real
 |3| Memoria    |16 Ram        |     
 |4| Disco      |Macintosh HD  |    
 |5| # serie    |FVFHP02EQ6LX  |
+
+##PROGRAMAS USADOS
++Anaconda
++Python
++Biopython 
