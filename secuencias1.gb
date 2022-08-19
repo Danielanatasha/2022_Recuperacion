@@ -360,4 +360,418 @@ publications that are available for this gene. Please see the Gene
 record to access additional publications.
 COMPLETENESS: full length.
 /structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR1803612.41015.1, AK291517.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1966682, SAMEA1968189 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('MANE Ensembl match', 'ENST00000380394.9/ ENSP00000369757.4'), ('RefSeq Select criteria', 'based on single protein-coding transcript')]))])
-Seq('CTCTTTTCCGTGGCGCCTCGGAGGCGTTCAGCTGCTTCAAGATGAAGCTGAACA...AAA')
+Seq('CTCTTTTCCGTGGCGCCTCGGAGGCGTTCAGCTGCTTCAAGATGAAGCTGAACA...AAA')ID: NM_001011.4
+Name: NM_001011
+Description: Homo sapiens ribosomal protein S7 (RPS7), mRNA
+Number of features: 15
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=12-AUG-2022
+/accessions=['NM_001011']
+/sequence_version=4
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='SMYD2 promotes tumorigenesis and metastasis of lung adenocarcinoma through RPS7', ...), Reference(title='Extensive disruption of protein interactions by genetic variants across the allele frequency spectrum in human populations', ...), Reference(title='Kinase PIM1 promotes prostate cancer cell growth via c-Myc-RPS7-driven ribosomal stress', ...), Reference(title='PPPDE1 is a novel deubiquitinase belonging to a cysteine isopeptidase family', ...), Reference(title='BCCIPbeta modulates the ribosomal and extraribosomal function of S7 through a direct interaction', ...), Reference(title='Characterization of the human small-ribosomal-subunit proteins by N-terminal and internal sequencing, and mass spectrometry', ...), Reference(title='The human ribosomal protein S7-encoding gene: isolation, structure and localization in 2p25', ...), Reference(title='Structure and evolution of mammalian ribosomal proteins', ...), Reference(title='Structural arrangement of the codon-anticodon interaction area in human placenta ribosomes. Affinity labelling of the 40S subunits by derivatives of oligoribonucleotides containing the AUG codon', ...), Reference(title='Diamond-Blackfan Anemia', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff in
+collaboration with Francesco Amaldi. The reference sequence was
+derived from BU963807.1, BC002866.2 and BF312642.1.
+This sequence is a reference standard in the RefSeqGene project.
+On May 11, 2018 this sequence version replaced NM_001011.3.
+Summary: Ribosomes, the organelles that catalyze protein synthesis,
+consist of a small 40S subunit and a large 60S subunit. Together
+these subunits are composed of 4 RNA species and approximately 80
+structurally distinct proteins. This gene encodes a ribosomal
+protein that is a component of the 40S subunit. The protein belongs
+to the S7E family of ribosomal proteins. It is located in the
+cytoplasm. As is typical for genes encoding ribosomal proteins,
+there are multiple processed pseudogenes of this gene dispersed
+through the genome. [provided by RefSeq, Jul 2008].
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'CK125944.1, SRR5189655.161158.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('MANE Ensembl match', 'ENST00000645674.2/ ENSP00000496757.1'), ('RefSeq Select criteria', 'based on single protein-coding transcript')]))])
+Seq('CTCGCGCTGTTTCCGCCTCTTGCCTTCGGACGCCGGATTTTGACGTGCTCTCGC...TAC')ID: NM_001012.2
+Name: NM_001012
+Description: Homo sapiens ribosomal protein S8 (RPS8), mRNA
+Number of features: 20
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_001012']
+/sequence_version=2
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Identification of 40S ribosomal protein S8 as a novel biomarker for alcoholassociated hepatocellular carcinoma using weighted gene coexpression network analysis', ...), Reference(title='A reference map of the human binary protein interactome', ...), Reference(title='Structure of the human 80S ribosome', ...), Reference(title='Structures of the human and Drosophila 80S ribosome', ...), Reference(title='The mRNA-bound proteome and its global occupancy profile on protein-coding transcripts', ...), Reference(title="Intron-encoded, antisense small nucleolar RNAs: the characterization of nine novel species points to their direct role as guides for the 2'-O-ribose methylation of rRNAs", ...), Reference(title='Characterization of the human small-ribosomal-subunit proteins by N-terminal and internal sequencing, and mass spectrometry', ...), Reference(title='Structure and evolution of mammalian ribosomal proteins', ...), Reference(title='The structure of the human intron-containing S8 ribosomal protein gene and determination of its chromosomal location at 1p32-p34.1', ...), Reference(title='Ribosomal protein genes are overexpressed in colorectal cancer: isolation of a cDNA clone encoding the human S3 ribosomal protein', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff in
+collaboration with Francesco Amaldi. The reference sequence was
+derived from AL592166.16.
+On Nov 26, 2018 this sequence version replaced NM_001012.1.
+Summary: Ribosomes, the organelles that catalyze protein synthesis,
+consist of a small 40S subunit and a large 60S subunit. Together
+these subunits are composed of 4 RNA species and approximately 80
+structurally distinct proteins. This gene encodes a ribosomal
+protein that is a component of the 40S subunit. The protein belongs
+to the S8E family of ribosomal proteins. It is located in the
+cytoplasm. Increased expression of this gene in colorectal tumors
+and colon polyps compared to matched normal colonic mucosa has been
+observed. This gene is co-transcribed with the small nucleolar RNA
+genes U38A, U38B, U39, and U40, which are located in its fourth,
+fifth, first, and second introns, respectively. As is typical for
+genes encoding ribosomal proteins, there are multiple processed
+pseudogenes of this gene dispersed through the genome. [provided by
+RefSeq, Jul 2008].
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR1163655.316090.1, SRR5189658.4207.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('MANE Ensembl match', 'ENST00000396651.8/ ENSP00000379888.3'), ('RefSeq Select criteria', 'based on single protein-coding transcript')]))])
+Seq('GTTTTACAAACCGAACCGTGAATCTTTGCGGTTTCTCTTTCCAGCCAGCGCCGA...TTA')ID: NM_001013.4
+Name: NM_001013
+Description: Homo sapiens ribosomal protein S9 (RPS9), transcript variant 1, mRNA
+Number of features: 18
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_001013']
+/sequence_version=4
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='LncRNA BRCAT54 inhibits the tumorigenesis of non-small cell lung cancer by binding to RPS9 to transcriptionally regulate JAK-STAT and calcium pathway genes', ...), Reference(title='[Ribosomal Protein S9 Expression in Multiple Myeloma and Its Effect on Cell Biological Function]', ...), Reference(title='Identification of Susceptibility Loci in IL6, RPS9/LILRB3, and an Intergenic Locus on Chromosome 21q22 in Takayasu Arteritis in a Genome-Wide Association Study', ...), Reference(title='Structure of the human 80S ribosome', ...), Reference(title='Structures of the human and Drosophila 80S ribosome', ...), Reference(title='A map of 75 human ribosomal protein genes', ...), Reference(title='Characterization of the human small-ribosomal-subunit proteins by N-terminal and internal sequencing, and mass spectrometry', ...), Reference(title='Structure and evolution of mammalian ribosomal proteins', ...), Reference(title='Cloning, sequencing and expression of the L5, L21, L27a, L28, S5, S9, S10 and S29 human ribosomal protein mRNAs', ...), Reference(title='Structural arrangement of the codon-anticodon interaction area in human placenta ribosomes. Affinity labelling of the 40S subunits by derivatives of oligoribonucleotides containing the AUG codon', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff in
+collaboration with Francesco Amaldi. The reference sequence was
+derived from AB055775.1, U14971.1 and BC007410.2.
+On Nov 23, 2018 this sequence version replaced NM_001013.3.
+Summary: Ribosomes, the organelles that catalyze protein synthesis,
+consist of a small 40S subunit and a large 60S subunit. Together
+these subunits are composed of 4 RNA species and approximately 80
+structurally distinct proteins. This gene encodes a ribosomal
+protein that is a component of the 40S subunit. The protein belongs
+to the S4P family of ribosomal proteins. It is located in the
+cytoplasm. Variable expression of this gene in colorectal cancers
+compared to adjacent normal tissues has been observed, although no
+correlation between the level of expression and the severity of the
+disease has been found. As is typical for genes encoding ribosomal
+proteins, multiple processed pseudogenes derived from this gene are
+dispersed through the genome. [provided by RefSeq, Jul 2008].
+Transcript Variant: This variant (1), as well as variants 2, 3, and
+4, encodes isoform a.
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR5189652.184569.1, SRR5189652.94038.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('MANE Ensembl match', 'ENST00000302907.9/ ENSP00000302896.4'), ('RefSeq Select criteria', 'based on conservation, expression, longest protein')]))])
+Seq('CTCTTTCTCAGTGACCGGGTGGTTTGCTTAGGCGCAGACGGGGAAGCGGAGCCA...CAA')ID: NM_001014.5
+Name: NM_001014
+Description: Homo sapiens ribosomal protein S10 (RPS10), transcript variant 2, mRNA
+Number of features: 17
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=11-AUG-2022
+/accessions=['NM_001014', 'XM_499468']
+/sequence_version=5
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Efficient and Accurate Translation Initiation Directed by TISU Involves RPS3 and RPS10e Binding and Differential Eukaryotic Initiation Factor 1A Regulation', ...), Reference(title='ZNF598 and RACK1 Regulate Mammalian Ribosome-Associated Quality Control Function by Mediating Regulatory 40S Ribosomal Ubiquitylation', ...), Reference(title='Initiation of Quality Control during Poly(A) Translation Requires Site-Specific Ribosome Ubiquitination', ...), Reference(title='Structure of the human 80S ribosome', ...), Reference(title='Proteins S7, S10, S16 and S19 of the human 40S ribosomal subunit are most resistant to dissociation by salt', ...), Reference(title='Pituitary tumor-transforming gene protein associates with ribosomal protein S10 and a novel human homologue of DnaJ in testicular cells', ...), Reference(title='A map of 75 human ribosomal protein genes', ...), Reference(title='Characterization of the human small-ribosomal-subunit proteins by N-terminal and internal sequencing, and mass spectrometry', ...), Reference(title='Cloning, sequencing and expression of the L5, L21, L27a, L28, S5, S9, S10 and S29 human ribosomal protein mRNAs', ...), Reference(title='Diamond-Blackfan Anemia', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff in
+collaboration with Francesco Amaldi. The reference sequence was
+derived from BG940847.1, AL157372.18 and BC001032.2.
+This sequence is a reference standard in the RefSeqGene project.
+On May 17, 2018 this sequence version replaced NM_001014.4.
+Summary: Ribosomes, the organelles that catalyze protein synthesis,
+consist of a small 40S subunit and a large 60S subunit. Together
+these subunits are composed of 4 RNA species and approximately 80
+structurally distinct proteins. This gene encodes a ribosomal
+protein that is a component of the 40S subunit. The protein belongs
+to the S10E family of ribosomal proteins. It is located in the
+cytoplasm. Variable expression of this gene in colorectal cancers
+compared to adjacent normal tissues has been observed, although no
+correlation between the level of expression and the severity of the
+disease has been found. As is typical for genes encoding ribosomal
+proteins, there are multiple processed pseudogenes of this gene
+dispersed through the genome. Alternate splicing results in
+multiple transcript variants that encode the same protein.
+Naturally occurring read-through transcription occurs between this
+locus and the neighboring locus NUDT3 (nudix (nucleoside
+diphosphate linked moiety X)-type motif 3).[provided by RefSeq, Feb
+2011].
+Transcript Variant: This variant (2) differs in the 5' UTR compared
+to variant 1. Variants 1, 2 and 3 encode the same protein.
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'CD176128.1, CD177422.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMN03568911 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('MANE Ensembl match', 'ENST00000648437.1/ ENSP00000497917.1'), ('RefSeq Select criteria', 'based on conservation, expression, longest protein')]))])
+Seq('CCTTTCCAGCCCCGGTACCGGACCCTGCAGCCGCAGAGATGTTGATGCCTAAGA...TAA')ID: NM_001015.5
+Name: NM_001015
+Description: Homo sapiens ribosomal protein S11 (RPS11), mRNA
+Number of features: 17
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_001015']
+/sequence_version=5
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Extensive rewiring of the EGFR network in colorectal cancer cells expressing transforming levels of KRAS(G13D)', ...), Reference(title="Parkinson's disease-associated LRRK2-G2019S mutant acts through regulation of SERCA activity to control ER stress in astrocytes", ...), Reference(title='Ribosomal Proteins RPS11 and RPS20, Two Stress-Response Markers of Glioblastoma Stem Cells, Are Novel Predictors of Poor Prognosis in Glioblastoma Patients', ...), Reference(title='Structure of the human 80S ribosome', ...), Reference(title='The human ribosomal protein genes: sequencing and comparative analysis of 73 genes', ...), Reference(title='A map of 75 human ribosomal protein genes', ...), Reference(title='Characterization of the human small-ribosomal-subunit proteins by N-terminal and internal sequencing, and mass spectrometry', ...), Reference(title='The mapping of seven intron-containing ribosomal protein genes shows they are unlinked in the human genome', ...), Reference(title='Noncoordinated expression of S6, S11, and S14 ribosomal protein genes in leukemic blast cells', ...), Reference(title='Sequence of a cloned cDNA encoding human ribosomal protein S11', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff in
+collaboration with Francesco Amaldi. The reference sequence was
+derived from AK311809.1 and BI550467.1.
+On Nov 23, 2018 this sequence version replaced NM_001015.4.
+Summary: Ribosomes, the organelles that catalyze protein synthesis,
+consist of a small 40S subunit and a large 60S subunit. Together
+these subunits are composed of 4 RNA species and approximately 80
+structurally distinct proteins. This gene encodes a member of the
+S17P family of ribosomal proteins that is a component of the 40S
+subunit. This gene is co-transcribed with the small nucleolar RNA
+gene U35B, which is located in the third intron. As is typical for
+genes encoding ribosomal proteins, there are multiple processed
+pseudogenes of this gene dispersed throughout the genome. [provided
+by RefSeq, Jul 2012].
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'BP344052.1, BI550467.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('MANE Ensembl match', 'ENST00000270625.7/ ENSP00000270625.1'), ('RefSeq Select criteria', 'based on single protein-coding transcript')]))])
+Seq('CTTTTTTTCAGGCGGCCGGGAAGATGGCGGACATTCAGACTGAGCGTGCCTACC...TTC')ID: NM_001016.4
+Name: NM_001016
+Description: Homo sapiens ribosomal protein S12 (RPS12), mRNA
+Number of features: 14
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=08-NOV-2021
+/accessions=['NM_001016']
+/sequence_version=4
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='HumanaFly: high-throughput transgenesis and expression of breast cancer transcripts in Drosophila eye discovers the RPS12-Wingless signaling axis', ...), Reference(title='Molecular analysis of streptomycin-resistance associating genes in Mycobacterium tuberculosis isolates from Nepal', ...), Reference(title='Interactome Mapping Provides a Network of Neurodegenerative Disease Proteins and Uncovers Widespread Protein Aggregation in Affected Brains', ...), Reference(title='Hypoxia influences polysome distribution of human ribosomal protein S12 and alternative splicing of ribosomal protein mRNAs', ...), Reference(title='Analysis of rpsL and rrs genes mutations related to streptomycin resistance in Mdr and Xdr clinical isolates of Mycobacterium tuberculosis', ...), Reference(title='Characterization of the human small-ribosomal-subunit proteins by N-terminal and internal sequencing, and mass spectrometry', ...), Reference(title='Structure and evolution of mammalian ribosomal proteins', ...), Reference(title='Construction of a human full-length cDNA bank', ...), Reference(title='Ribosomal protein genes are overexpressed in colorectal cancer: isolation of a cDNA clone encoding the human S3 ribosomal protein', ...), Reference(title='cDNA and predicted amino acid sequences of the human ribosomal protein genes rpS12 and rpL17', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff in
+collaboration with Francesco Amaldi. The reference sequence was
+derived from BQ276878.1 and BC095424.1.
+On Nov 22, 2018 this sequence version replaced NM_001016.3.
+Summary: Ribosomes, the organelles that catalyze protein synthesis,
+consist of a small 40S subunit and a large 60S subunit. Together
+these subunits are composed of 4 RNA species and approximately 80
+structurally distinct proteins. This gene encodes a ribosomal
+protein that is a component of the 40S subunit. The protein belongs
+to the S12E family of ribosomal proteins. It is located in the
+cytoplasm. Increased expression of this gene in colorectal cancers
+compared to matched normal colonic mucosa has been observed. As is
+typical for genes encoding ribosomal proteins, there are multiple
+processed pseudogenes of this gene dispersed through the genome.
+[provided by RefSeq, Jul 2008].
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'BJ990964.1, BM742041.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('MANE Ensembl match', 'ENST00000230050.4/ ENSP00000230050.3'), ('RefSeq Select criteria', 'based on single protein-coding transcript')]))])
+Seq('CTCTTTCCCTGCCGCCGCCGAGTCGCGCGGAGGCGGAGGCTTGGGTGCGTTCAA...ACA')ID: NM_001017.3
+Name: NM_001017
+Description: Homo sapiens ribosomal protein S13 (RPS13), mRNA
+Number of features: 15
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_001017']
+/sequence_version=3
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='RPS13, a potential universal reference gene for normalisation of gene expression in multiple human normal and cancer tissue samples', ...), Reference(title='Extensive rewiring of the EGFR network in colorectal cancer cells expressing transforming levels of KRAS(G13D)', ...), Reference(title="Parkinson's disease-associated LRRK2-G2019S mutant acts through regulation of SERCA activity to control ER stress in astrocytes", ...), Reference(title='Interaction between human BAP31 and respiratory syncytial virus small hydrophobic (SH) protein', ...), Reference(title='Structure of the human 80S ribosome', ...), Reference(title='Characterization of the human small-ribosomal-subunit proteins by N-terminal and internal sequencing, and mass spectrometry', ...), Reference(title='Structure and evolution of mammalian ribosomal proteins', ...), Reference(title='Construction of a human full-length cDNA bank', ...), Reference(title='Cloning and analysis of the human S13 ribosomal protein cDNA', ...), Reference(title='The primary structure of rat ribosomal protein S13', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff in
+collaboration with Francesco Amaldi. The reference sequence was
+derived from AC116533.11.
+On Nov 26, 2018 this sequence version replaced NM_001017.2.
+Summary: Ribosomes, the organelles that catalyze protein synthesis,
+consist of a small 40S subunit and a large 60S subunit. Together
+these subunits are composed of 4 RNA species and approximately 80
+structurally distinct proteins. This gene encodes a ribosomal
+protein that is a component of the 40S subunit. The protein belongs
+to the S15P family of ribosomal proteins. It is located in the
+cytoplasm. The protein has been shown to bind to the 5.8S rRNA in
+rat. The gene product of the E. coli ortholog (ribosomal protein
+S15) functions at early steps in ribosome assembly. This gene is
+co-transcribed with two U14 small nucleolar RNA genes, which are
+located in its third and fifth introns. As is typical for genes
+encoding ribosomal proteins, there are multiple processed
+pseudogenes of this gene dispersed through the genome. [provided by
+RefSeq, Jul 2008].
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'BP318859.1, SRR1163655.395667.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1966682, SAMEA1968189 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('MANE Ensembl match', 'ENST00000525634.6/ ENSP00000435777.1'), ('RefSeq Select criteria', 'based on single protein-coding transcript')]))])
+Seq('CCTTTCGTTGCCTGATCGCCGCCATCATGGGTCGCATGCATGCTCCCGGGAAGG...AAG')ID: NM_001025071.2
+Name: NM_001025071
+Description: Homo sapiens ribosomal protein S14 (RPS14), transcript variant 1, mRNA
+Number of features: 22
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-MAR-2022
+/accessions=['NM_001025071']
+/sequence_version=2
+/keywords=['RefSeq']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Integrated analyses of translatome and proteome identify the rules of translation selectivity in RPS14-deficient cells', ...), Reference(title='A reference map of the human binary protein interactome', ...), Reference(title='L-leucine increases translation of RPS14 and LARP1 in erythroblasts from del(5q) myelodysplastic syndrome patients', ...), Reference(title='Histone Interaction Landscapes Visualized by Crosslinking Mass Spectrometry in Intact Cell Nuclei', ...), Reference(title='Architecture of the human interactome defines protein communities and disease networks', ...), Reference(title='Fine-structure map of the human ribosomal protein gene RPS14', ...), Reference(title='A cloned human ribosomal protein gene functions in rodent cells', ...), Reference(title='Homologous ribosomal proteins in bacteria, yeast, and humans', ...), Reference(title='Primary structure of human ribosomal protein S14 and the gene that encodes it', ...), Reference(title='Selective linkage disruption in human-Chinese hamster cell hybrids: deletion mapping of the leuS, hexB, emtB, and chr genes on human chromosome 5', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff in
+collaboration with Francesco Amaldi. The reference sequence was
+derived from AC011388.7, BM557014.1 and AA467888.1.
+On May 31, 2019 this sequence version replaced NM_001025071.1.
+Summary: Ribosomes, the organelles that catalyze protein synthesis,
+consist of a small 40S subunit and a large 60S subunit. Together
+these subunits are composed of 4 RNA species and approximately 80
+structurally distinct proteins. This gene encodes a ribosomal
+protein that is a component of the 40S subunit. The protein belongs
+to the S11P family of ribosomal proteins. It is located in the
+cytoplasm. Transcript variants utilizing alternative transcription
+initiation sites have been described in the literature. As is
+typical for genes encoding ribosomal proteins, there are multiple
+processed pseudogenes of this gene dispersed through the genome. In
+Chinese hamster ovary cells, mutations in this gene can lead to
+resistance to emetine, a protein synthesis inhibitor. Multiple
+alternatively spliced transcript variants encoding the same protein
+have been found for this gene. [provided by RefSeq, Jul 2008].
+Transcript Variant: This variant (1) represents the longest
+transcript.
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR1803615.29299.1, SRR1660809.172087.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1966682, SAMEA1968189 [ECO:0000348]')]))])
+Seq('CTCTCTTTCCGGTGTGGAGTCTGGAGACGACGTGCAGGTAGGAGGCCCGGGCGC...GTA')ID: NM_001018.5
+Name: NM_001018
+Description: Homo sapiens ribosomal protein S15 (RPS15), transcript variant 2, mRNA
+Number of features: 11
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=09-JUN-2022
+/accessions=['NM_001018', 'NM_001080831']
+/sequence_version=5
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='The C-terminal tail of ribosomal protein Rps15 is engaged in cytoplasmic pre-40S maturation', ...), Reference(title='RPS15 mutations rewire RNA translation in chronic lymphocytic leukemia', ...), Reference(title='Interactome Mapping Provides a Network of Neurodegenerative Disease Proteins and Uncovers Widespread Protein Aggregation in Affected Brains', ...), Reference(title='The functional role of the C-terminal tail of the human ribosomal protein uS19', ...), Reference(title='mRNA regions where 80S ribosomes pause during translation elongation in vivo interact with protein uS19, a component of the decoding site', ...), Reference(title='Identification of highly specific localized sequence motifs in human ribosomal protein gene promoters', ...), Reference(title='rig encodes ribosomal protein S15. The primary structure of mammalian ribosomal protein S15', ...), Reference(title='Isolation and characterization of the human homologue of rig and its pseudogenes: the functional gene has features characteristic of housekeeping genes', ...), Reference(title='Ribosomal proteins S2, S6, S10, S14, S15 and S25 are localized on the surface of mammalian 40 S subunits and stabilize their conformation. A study with immobilized trypsin', ...), Reference(title='Evolutionary conservation of the insulinoma gene rig and its possible function', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff in
+collaboration with Francesco Amaldi. The reference sequence was
+derived from AC027307.5.
+On Feb 5, 2020 this sequence version replaced NM_001018.4.
+Summary: Ribosomes, the organelles that catalyze protein synthesis,
+consist of a small 40S subunit and a large 60S subunit. Together
+these subunits are composed of 4 RNA species and approximately 80
+structurally distinct proteins. This gene encodes a ribosomal
+protein that is a component of the 40S subunit. The protein belongs
+to the S19P family of ribosomal proteins. It is located in the
+cytoplasm. This gene has been found to be activated in various
+tumors, such as insulinomas, esophageal cancers, and colon cancers.
+As is typical for genes encoding ribosomal proteins, there are
+multiple processed pseudogenes of this gene dispersed through the
+genome. Alternative splicing results in multiple transcript
+variants. [provided by RefSeq, Apr 2015].
+Transcript Variant: This variant (2) uses an alternate 5'-terminal
+exon, which results in a different 5' UTR and use of an alternate
+start codon compared to variant 1. It encodes isoform 2, which is
+shorter than and has a distinct N-terminus compared to isoform 1.
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'BG477036.1, BP274730.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('MANE Ensembl match', 'ENST00000592588.7/ ENSP00000467466.3'), ('RefSeq Select criteria', 'based on manual assertion, conservation, expression')]))])
+Seq('CAAAGCGATCTCTTCTGAGGATCCGGCAAGATGGCAGAAGTAGAGCAGAAGAAG...CAG')ID: NM_001019.5
+Name: NM_001019
+Description: Homo sapiens ribosomal protein S15a (RPS15A), transcript variant 2, mRNA
+Number of features: 15
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=11-AUG-2022
+/accessions=['NM_001019']
+/sequence_version=5
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Ribosomal protein RPS15A augments proliferation of colorectal cancer RKO cells via regulation of BIRC3, p38 MAPK and Chk1', ...), Reference(title='Interactome Mapping Provides a Network of Neurodegenerative Disease Proteins and Uncovers Widespread Protein Aggregation in Affected Brains', ...), Reference(title='MicroRNA-147b suppresses the proliferation and invasion of non-small-cell lung cancer cells through downregulation of Wnt/beta-catenin signalling via targeting of RPS15A', ...), Reference(title='Ribosomal protein small subunit 15A (RPS15A) inhibits the apoptosis of breast cancer MDA-MB-231 cells via upregulating phosphorylated ERK1/2, Bad, and Chk1', ...), Reference(title='Downregulation of RPS15A by miR-29a-3p attenuates cell proliferation in colorectal carcinoma', ...), Reference(title='A map of 75 human ribosomal protein genes', ...), Reference(title='Characterization of the human small-ribosomal-subunit proteins by N-terminal and internal sequencing, and mass spectrometry', ...), Reference(title='Structure and evolution of mammalian ribosomal proteins', ...), Reference(title='The primary structure of rat ribosomal protein S15a', ...), Reference(title='Diamond-Blackfan Anemia', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff in
+collaboration with Francesco Amaldi. The reference sequence was
+derived from BF678907.1, BC001697.2 and AC138811.3.
+On Nov 22, 2018 this sequence version replaced NM_001019.4.
+Summary: Ribosomes, the organelles that catalyze protein synthesis,
+consist of a small 40S subunit and a large 60S subunit. Together
+these subunits are composed of 4 RNA species and approximately 80
+structurally distinct proteins. This gene encodes a ribosomal
+protein that is a component of the 40S subunit. The protein belongs
+to the S8P family of ribosomal proteins. It is located in the
+cytoplasm. As is typical for genes encoding ribosomal proteins,
+there are multiple processed pseudogenes of this gene dispersed
+through the genome. [provided by RefSeq, Jul 2008].
+Transcript Variant: This variant (2) is the longest transcript and
+utilizes an alternate splice site on the 5'-terminal exon, compared
+to variant 1. Variants 1 and 2 encode the same protein.
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'AK291988.1, SRR3476690.797572.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1968540, SAMEA2142348 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('MANE Ensembl match', 'ENST00000322989.8/ ENSP00000318646.4'), ('RefSeq Select criteria', 'based on conservation, expression, longest protein')]))])
+Seq('CTCTTTCCGCCATCTTTCCGCGCCGGTGAGTAGCACTCTCTGAGAGCTCCAATT...TGG')ID: NM_001020.6
+Name: NM_001020
+Description: Homo sapiens ribosomal protein S16 (RPS16), transcript variant 1, mRNA
+Number of features: 15
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=14-AUG-2022
+/accessions=['NM_001020']
+/sequence_version=6
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='MicroRNA let-7 Suppresses Influenza A Virus Infection by Targeting RPS16 and Enhancing Type I Interferon Response', ...), Reference(title='USP1-dependent RPS16 protein stability drives growth and metastasis of human hepatocellular carcinoma cells', ...), Reference(title="Parkinson's disease-associated LRRK2-G2019S mutant acts through regulation of SERCA activity to control ER stress in astrocytes", ...), Reference(title='MicroRNA-7641 is a regulator of ribosomal proteins and a promising targeting factor to improve the efficacy of cancer therapy', ...), Reference(title='Structure of the human 80S ribosome', ...), Reference(title='A map of 75 human ribosomal protein genes', ...), Reference(title='Characterization of the human small-ribosomal-subunit proteins by N-terminal and internal sequencing, and mass spectrometry', ...), Reference(title='Structure and evolution of mammalian ribosomal proteins', ...), Reference(title='Construction of a human full-length cDNA bank', ...), Reference(title='Molecular cloning and sequence analysis of the human ribosomal protein S16', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff in
+collaboration with Francesco Amaldi. The reference sequence was
+derived from AC011500.7, AK315498.1 and AA890305.1.
+On Nov 23, 2018 this sequence version replaced NM_001020.5.
+Summary: Ribosomes, the organelles that catalyze protein synthesis,
+consist of a small 40S subunit and a large 60S subunit. Together
+these subunits are composed of 4 RNA species and approximately 80
+structurally distinct proteins. This gene encodes a ribosomal
+protein that is a component of the 40S subunit. The protein belongs
+to the S9P family of ribosomal proteins. It is located in the
+cytoplasm. As is typical for genes encoding ribosomal proteins,
+there are multiple processed pseudogenes of this gene dispersed
+through the genome. [provided by RefSeq, Jul 2008].
+Sequence Note: This RefSeq record was created from transcript and
+genomic sequence data to make the sequence consistent with the
+reference genome assembly. The genomic coordinates used for the
+transcript record were based on transcript alignments.
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR1163655.380039.1, CD176907.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1968540, SAMEA1968832 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('MANE Ensembl match', 'ENST00000251453.8/ ENSP00000251453.2'), ('RefSeq Select criteria', 'based on conservation, expression')]))])
+Seq('CCTTTTCCGGTTGCGGCGCCGCGCGGTGAGGTTGTCTAGTCCACGCTCGGAGCC...TAT')
